@@ -15,7 +15,7 @@
     "cnpm": "^6.1.0",
     "core-js": "^3.4.3",
     "mockjs": "^1.1.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "pinyin": "^2.9.0",
     "postcss-px2rem": "^0.3.0",
     "sass-loader": "^8.0.0",
